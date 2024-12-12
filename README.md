@@ -4,7 +4,9 @@
 <h1>Login Analysis Dashboard Project Overview</h1>
 
 <p>Conducted a comprehensive analysis and visualization of login data utilizing Splunk, to identify trends, patterns, and anomalies indicative of potential security threats, including brute-force attacks.</p>
-
+<h1>Tool(s)</h1>
+  <ul>Splunk</ul>
+  
 <h1>Project Methodology</h1>
 
 <ul>
